@@ -79,11 +79,11 @@ También ofrece algunos tipos de BBDD.
 
 - ### Cyclic.sh
 
-Por ahora lo he usado muy poco, así que no puedo destacar nada en concreto.
+Por ahora sólo soporta Nodejs. 
 
 - ### Fly.io
 
-Por ahora lo he usado muy poco, así que no puedo destacar nada en concreto.
+Además de soporte de varios lenguajes de programación del lado servidor, ofrecen varios tipos de bases de datos. También dispone de herramienta CLI (Command Line Interface) para la realización de distintos tipos de tareas.
 
 - ### Replit.com
 
