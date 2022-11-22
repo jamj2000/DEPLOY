@@ -41,8 +41,9 @@ Muchos de estos sitios están en proceso de constante evolución, por lo que es 
 
 - ### Netlify
 
-- ### Surge
+- ### Surge.sh
 
+- ### Glitch.com
 
 ---
 
@@ -62,35 +63,29 @@ Estos sitios suelen ofrecer la opción de registranos con nuestra cuenta de GitH
 A continuación se comenta someramente, las características específicas más reseñables de cada sitio.
 
 
-- ### heroku.com
+- ### Heroku.com
 
 Es uno de los sitios más veteranos. Es el PaaS que más lenguajes soporta y cuya interfaz y forma de uso es más amigable. Desde finales de 2022 pasa a ser de pago. Sigue existiendo plan ***free*** pero es necesario registrar tarjeta de débito o crédito.
 
-- ### render.com
+- ### Render.com
 
 Nuevo sitio que pretende cubrir el hueco dejado por Heroku para desarrolladores que desean un plan free sin necesidad de indicar tarjeta de débito o crédito. Ofrece soporte a menos lenguajes de programación que Heroku.
 
-- ### railway.app
+- ### Railway.app
 
 Nuevo sitio que pretende cubrir el hueco dejado por Heroku para desarrolladores que desean un plan free sin necesidad de indicar tarjeta de débito o crédito. Ofrece soporte a menos lenguajes de programación que Heroku.
 Es posible desplegar usando distintos mecanismos. Uno de ellos es a través de contenedores Docker y archivos Dockerfile.
 También ofrece algunos tipos de BBDD. 
 
-- ### cyclic.sh
+- ### Cyclic.sh
 
 Por ahora lo he usado muy poco, así que no puedo destacar nada en concreto.
 
-- ### fly.io
+- ### Fly.io
 
 Por ahora lo he usado muy poco, así que no puedo destacar nada en concreto.
 
-
-- ### glitch.com
-
-Por ahora lo he usado muy poco, así que no puedo destacar nada en concreto.
-
-
-- ### replit.com
+- ### Replit.com
 
 Dispone de IDE on-line.
 
